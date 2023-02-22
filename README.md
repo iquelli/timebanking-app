@@ -7,3 +7,5 @@ This project consisted in the creation of a graphic interface for a mobile appli
 ___
 ### By:
 - [Raquel Braunschweig](https://github.com/iquelli)
+- [Vasco Paisana](https://github.com/vascopaisana)
+- [Gonçalo Pacheco](https://github.com/Oxyz)
