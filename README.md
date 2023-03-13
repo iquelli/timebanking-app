@@ -1,8 +1,8 @@
 # Time Banking App
 
-This project consisted in the creation of a graphic interface for a mobile application (app) of a [Time Bank](https://www.investopedia.com/terms/t/time-banking.asp).
+This project consisted in trying to decrease the target selection time in a dense interface of 80 targets.
 
-[Project Statement](docs/bake-off-1.pdf)
+[Project Statement](docs/bake-off-2.pdf)
 
 ___
 ### By:
