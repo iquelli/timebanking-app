@@ -7,6 +7,6 @@ To create the prototype, we learned how to use the software [Figma](https://www.
 [Project Statement](docs/bake-off-1.pdf)
 ___
 ### By:
+- [Gonçalo Pacheco](https://github.com/Oxyz)
 - [Raquel Braunschweig](https://github.com/iquelli)
 - [Vasco Paisana](https://github.com/vascopaisana)
-- [Gonçalo Pacheco](https://github.com/Oxyz)
